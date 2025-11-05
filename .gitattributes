@@ -1,0 +1,2 @@
+model_out/** filter=lfs diff=lfs merge=lfs -text
+riceenv/** filter=lfs diff=lfs merge=lfs -text
